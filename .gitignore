@@ -1,5 +1,7 @@
 # 파일 제외 (파일명.확장자)
 bootstrap-5.3.3-dist.zip
+test_mv.mp4
 
 # 특정 폴더안의 파일 전부 제외
 sampleTemplet/
+

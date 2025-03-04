@@ -75,6 +75,11 @@
   display: block !important;
 }
 
+/* header 폰트크기 줄이기 */
+.small-text {
+  font-size: 0.7rem !important; /* 12px */
+}
+
 /* 슬라이딩 사이드바 크기 조절*/
 #sidebarMenu.offcanvas {
   width: 250px; /* 원하는 너비로 조정 */
